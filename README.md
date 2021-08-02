@@ -90,14 +90,17 @@ Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 __4. Respuesta a Interrogantes__
 
-4.1. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
+__*4.1. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.*__
 
 Una vez hecha la parte experimental y la calculada se cumple el teorema de máxima transferencia, debido a que en ambos casos (medido y calculado) arroja resultados similares y ya que por definición se sabe que la potencial máxima se dará con el valor de RL más cercano a la resistencia de Thévenin (1.2k Ω). Y la resistencia más cercana en cuanto a valor es la de 1000 ohm, y con ese valor de resistencia se da la máxima potencia.
 
-4.2.¿Cuál fue la potencia máxima en RL?  0.04637 Watts
+__*4.2.¿Cuál fue la potencia máxima en RL? *__
 
-4.3. ¿Para qué valor de RL se obtiene la MTP?  1000Ω
+La máxima potencia experimental es: 0.0465 Watts y la calculada es: 0.0463Watts.
 
+__*4.3. ¿Para qué valor de RL se obtiene la MTP?*__ 
+
+Se obtiene para el valor de: 1000Ω en RL
 
 
 __5. Video__
