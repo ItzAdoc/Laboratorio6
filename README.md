@@ -85,7 +85,7 @@ Para 4700Ω
 
 Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
-![](https://github.com/ItzAdoc/ImaLab6/blob/main/T1.PNG)
+
 
 
 __4. Respuesta a Interrogantes__
