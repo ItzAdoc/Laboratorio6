@@ -67,10 +67,21 @@ Para 4700Ω
 
 ![](https://github.com/ItzAdoc/ImaLab6/blob/main/M4700.png)
 
-3. Luego con estos valores medidos se procede a calcular la potencia para cada valor de RL
+3. Luego con estos valores medidos se procede a calcular la potencia para cada valor de RL y anotar en la tabla 6.1
 
+![](https://github.com/ItzAdoc/ImaLab6/blob/main/E1.PNG)
 
+![](https://github.com/ItzAdoc/ImaLab6/blob/main/E2.PNG)
 
+![](https://github.com/ItzAdoc/ImaLab6/blob/main/E3.PNG)
+
+4. Una vez hecha la parte experimetal se procede a hacer la parte calculada, es decir a calcular la potencia en cada valor de RL  y de igual forma se anota los resultados en la tabla 6.1.
+
+![](https://github.com/ItzAdoc/ImaLab6/blob/main/M1.PNG)
+
+![](https://github.com/ItzAdoc/ImaLab6/blob/main/M2.PNG)
+
+![](https://github.com/ItzAdoc/ImaLab6/blob/main/M3.PNG)
 
 __4. Respuesta a Interrogantes__
 
