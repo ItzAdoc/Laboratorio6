@@ -25,7 +25,7 @@ __3. Explicación del Procedimiento__
 
 ![](https://github.com/ItzAdoc/ImaLab6/blob/main/Armado.png)
 
-2. Se midio el  voltaje y corriente para cada valor de RL y se anotó en la tabla 6.1
+2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anote los resultados medidos.
 
 Para 220Ω
 
@@ -75,7 +75,7 @@ Para 4700Ω
 
 ![](https://github.com/ItzAdoc/ImaLab6/blob/main/E3.PNG)
 
-4. Una vez hecha la parte experimetal se procede a hacer la parte calculada, es decir a calcular la potencia en cada valor de RL  y de igual forma se anota los resultados en la tabla 6.1.
+4. Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1.
 
 ![](https://github.com/ItzAdoc/ImaLab6/blob/main/M1.PNG)
 
