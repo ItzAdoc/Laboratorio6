@@ -83,7 +83,7 @@ Para 4700Ω
 
 ![](https://github.com/ItzAdoc/ImaLab6/blob/main/w3.jpg)
 
-![](https://github.com/ItzAdoc/ImaLab6/blob/main/w4.jpg
+![](https://github.com/ItzAdoc/ImaLab6/blob/main/w4.jpg)
 
 ![](https://github.com/ItzAdoc/ImaLab6/blob/main/w5.jpg)
 
@@ -97,7 +97,6 @@ Para 4700Ω
 
 ![](https://github.com/ItzAdoc/ImaLab6/blob/main/w10.jpg)
 
-![](https://github.com/ItzAdoc/ImaLab6/blob/main/w1.jpg)
 ![](https://github.com/ItzAdoc/ImaLab6/blob/main/M1.PNG)
 
 ![](https://github.com/ItzAdoc/ImaLab6/blob/main/M2.PNG)
@@ -106,6 +105,7 @@ Para 4700Ω
 
 Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
+![](https://github.com/ItzAdoc/ImaLab6/blob/main/T1.jpg)
 
 
 
