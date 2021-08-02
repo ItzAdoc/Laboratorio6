@@ -19,12 +19,63 @@ __2. Marco Teórico__
 
 __3. Explicación del Procedimiento__
 
+1.	Arme el circuito que se muestra en la figura 6.1.
+
+![](https://github.com/ItzAdoc/ImaLab6/blob/main/Circuito.png)
+
+![](https://github.com/ItzAdoc/ImaLab6/blob/main/Armado.png)
+
+2. Se midio el  voltaje y corriente para cada valor de RL y se anotó en la tabla 6.1
+
+Para 220Ω
+
+![](https://github.com/ItzAdoc/ImaLab6/blob/main/M220.png)
+
+Para 470Ω
+
+![](https://github.com/ItzAdoc/ImaLab6/blob/main/M470.png)
+
+Para 680Ω
+
+![](https://github.com/ItzAdoc/ImaLab6/blob/main/M680.png)
+
+Para 820Ω
+
+![](https://github.com/ItzAdoc/ImaLab6/blob/main/M820.png)
+
+Para 1000Ω
+
+![](https://github.com/ItzAdoc/ImaLab6/blob/main/M1000.png)
+
+Para 1500Ω
+
+![](https://github.com/ItzAdoc/ImaLab6/blob/main/M1500.png)
+
+Para 1800Ω
+
+![](https://github.com/ItzAdoc/ImaLab6/blob/main/M1800.png)
+
+Para 2200Ω
+
+![](https://github.com/ItzAdoc/ImaLab6/blob/main/M2200.png)
+
+Para 3900Ω
+
+![](https://github.com/ItzAdoc/ImaLab6/blob/main/M3900.png)
+
+Para 4700Ω
+
+![](https://github.com/ItzAdoc/ImaLab6/blob/main/M4700.png)
+
+3. Luego con estos valores medidos se procede a calcular la potencia para cada valor de RL
+
 
 
 
 __4. Respuesta a Interrogantes__
 
 4.1. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
+
 Si se cumple ya que por definición se sabe que la potencial máxima se dará con el valor de RL mas cercano a la resistencia de Thévenin (1.2k Ω). Y la resistencia mas cercana en cuanto a valor es la de 1000 ohm, y con ese valor de resistencia se da la máxima potencia.
 
 4.2.¿Cuál fue la potencia máxima en RL?  0.04637 Watts
