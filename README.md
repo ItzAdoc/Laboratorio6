@@ -105,7 +105,7 @@ Se obtiene para el valor de: 1000Ω en RL
 
 __5. Video__
 
-* 
+* https://youtu.be/NDS1yyoTSo8
 
 __6. Coclusiones__ 
 
