@@ -19,7 +19,19 @@ __2. Marco Teórico__
 
 __3. Explicación del Procedimiento__
 
-__*CIRCUITO PRINCIPAL*__
+
+
+
+__4. Respuesta a Interrogantes__
+
+4.1. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
+Si se cumple ya que por definición se sabe que la potencial máxima se dará con el valor de RL mas cercano a la resistencia de Thévenin (1.2k Ω). Y la resistencia mas cercana en cuanto a valor es la de 1000 ohm, y con ese valor de resistencia se da la máxima potencia.
+
+4.2.¿Cuál fue la potencia máxima en RL?  0.04637 Watts
+
+4.3. ¿Para qué valor de RL se obtiene la MTP?  1000Ω
+
+
 
 __5. Video__
 
