@@ -83,11 +83,16 @@ Para 4700Ω
 
 ![](https://github.com/ItzAdoc/ImaLab6/blob/main/M3.PNG)
 
+Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
+
+![](https://github.com/ItzAdoc/ImaLab6/blob/main/T1.PNG)
+
+
 __4. Respuesta a Interrogantes__
 
 4.1. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
-Si se cumple ya que por definición se sabe que la potencial máxima se dará con el valor de RL mas cercano a la resistencia de Thévenin (1.2k Ω). Y la resistencia mas cercana en cuanto a valor es la de 1000 ohm, y con ese valor de resistencia se da la máxima potencia.
+Una vez hecha la parte experimental y la calculada se cumple el teorema de máxima transferencia, debido a que en ambos casos (medido y calculado) arroja resultados similares y ya que por definición se sabe que la potencial máxima se dará con el valor de RL más cercano a la resistencia de Thévenin (1.2k Ω). Y la resistencia más cercana en cuanto a valor es la de 1000 ohm, y con ese valor de resistencia se da la máxima potencia.
 
 4.2.¿Cuál fue la potencia máxima en RL?  0.04637 Watts
 
