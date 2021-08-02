@@ -79,6 +79,25 @@ Para 4700Ω
 
 ![](https://github.com/ItzAdoc/ImaLab6/blob/main/w1.jpg)
 
+![](https://github.com/ItzAdoc/ImaLab6/blob/main/w2.jpg)
+
+![](https://github.com/ItzAdoc/ImaLab6/blob/main/w3.jpg)
+
+![](https://github.com/ItzAdoc/ImaLab6/blob/main/w4.jpg
+
+![](https://github.com/ItzAdoc/ImaLab6/blob/main/w5.jpg)
+
+![](https://github.com/ItzAdoc/ImaLab6/blob/main/w6.jpg)
+
+![](https://github.com/ItzAdoc/ImaLab6/blob/main/w7.jpg)
+
+![](https://github.com/ItzAdoc/ImaLab6/blob/main/w8.jpg)
+
+![](https://github.com/ItzAdoc/ImaLab6/blob/main/w9.jpg)
+
+![](https://github.com/ItzAdoc/ImaLab6/blob/main/w10.jpg)
+
+![](https://github.com/ItzAdoc/ImaLab6/blob/main/w1.jpg)
 ![](https://github.com/ItzAdoc/ImaLab6/blob/main/M1.PNG)
 
 ![](https://github.com/ItzAdoc/ImaLab6/blob/main/M2.PNG)
