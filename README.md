@@ -15,7 +15,7 @@ __1. Objetivos__
 
 __2. Marco Teórico__ 
 
-![]()
+![](https://github.com/ItzAdoc/ImaLab6/blob/main/Marco.jpeg)
 
 __3. Explicación del Procedimiento__
 
