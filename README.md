@@ -77,6 +77,8 @@ Para 4700Ω
 
 4. Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1.
 
+![](https://github.com/ItzAdoc/ImaLab6/blob/main/w1.jpg)
+
 ![](https://github.com/ItzAdoc/ImaLab6/blob/main/M1.PNG)
 
 ![](https://github.com/ItzAdoc/ImaLab6/blob/main/M2.PNG)
